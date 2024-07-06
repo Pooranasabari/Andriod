@@ -1,0 +1,21 @@
+h1{
+    color: darkturquoise;
+    font-family: "Iceberg", sans-serif;
+    font-size: xx-large;
+}
+h2{
+    color: brown;
+    font-family: "Iceberg", sans-serif;
+    font-size: x-large;
+}
+li{
+    color:white;
+    font-family: "Iceberg", sans-serif;
+    font-size: large;
+}
+
+body{
+    background-image: url(./img3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
